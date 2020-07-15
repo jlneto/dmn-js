@@ -67,7 +67,7 @@
   position: absolute;
   background: var(--context-menu-background-color);
   border: solid 1px var(--context-menu-border-color);
-  border-radius: 2px;
+  border-radius: 3px;
   font-size: 14px;
   color: var(--context-menu-color);
   z-index: 10;
@@ -169,7 +169,6 @@
 
 .dmn-decision-table-container .dms-form-control .dms-input {
   padding-right: 24px;
-  border-radius: 3px;
 }
 
 .dmn-decision-table-container .dms-form-control .dms-list-component {
